@@ -13,5 +13,3 @@ in stellar atmospheres (with good convergence).
 
 If you need help with adapting this code to your particular astrophysical problem, please contact the
 author.
-
-wallah billah
